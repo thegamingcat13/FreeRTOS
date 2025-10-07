@@ -91,7 +91,6 @@ float heading (void)
 			return(heading_deg);
 		}
 }
-}
 
 
 
